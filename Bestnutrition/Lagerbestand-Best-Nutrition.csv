@@ -706,7 +706,7 @@
 "060800";"Strimex Creabon 100% micronezed Creatine - 500g";"0,00";
 "023100";"GN Citrulline Polyhydrate 200g";"0,00";
 "320400-0006";"Scitec Fourstar Protein - 500g Raspberry Vanilla Yogurt";"0,00";
-"320600";"Scitec 100% Whey Professional 920g";"103,00";
+"320600";"Scitec 100% Whey Professional 920g";"105,00";
 "320700";"Scitec Beef Aminos 200 Tabletten";"0,00";
 "320900";"Scitec Amino 5600 - 200 Tabletten";"6,00";
 "321000";"Scitec Amino 5600 - 500 Tabletten";"15,00";
@@ -729,7 +729,7 @@
 "322000-0002";"Scitec Jumbo 4400g Erdbeere";"0,00";
 "322000-0003";"Scitec Jumbo 4400g Vanille";"0,00";
 "320600-024";"Scitec 100% Whey Professional 920g Strawberry White Chocolate";"0,00";
-"320600-0002";"Scitec 100% Whey Professional 920g Vanilla Verry Berry";"4,00";
+"320600-0002";"Scitec 100% Whey Professional 920g Vanilla Verry Berry";"5,00";
 "320600-005";"Scitec 100% Whey Professional 920g Vanilla-Light";"0,00";
 "320600-006";"Scitec 100% Whey Professional 920g Banana";"13,00";
 "320600-007";"Scitec 100% Whey Professional 920g Coconut Chocolate";"15,00";
@@ -761,7 +761,7 @@
 "322700";"Scitec Zinc 100 Tabletten";"13,00";
 "320400-0007";"Scitec Fourstar Protein - 500g Orange Maracuja";"0,00";
 "320400-0008";"Scitec Fourstar Protein - 500g Tropical";"0,00";
-"320600-016";"Scitec 100% Whey Professional 920g Strawberry";"4,00";
+"320600-016";"Scitec 100% Whey Professional 920g Strawberry";"5,00";
 "320200-014";"Scitec 100% Whey Professional 2350g Strawberry";"0,00";
 "320600-018";"Scitec 100% Whey Professional 920g Chocolate Coockies Cream";"4,00";
 "220400";"BSN No-Xplode 3.0 1000g";"0,00";
@@ -3124,7 +3124,7 @@
 "1110400";"Nutrend AAKG Compressed Kapseln - 120 Kapseln";"7,00";
 "1110500";"Nutrend Synephrine - 60 Kapseln";"5,00";
 "1110600";"Nutrend Smash Energy UP - 8x 500ml";"0,00";
-"1110700";"Nutrend Activity L-Carnitine Drink + Caffeine - 8x 750ml";"107,00";
+"1110700";"Nutrend Activity L-Carnitine Drink + Caffeine - 8x 750ml";"102,00";
 "1110800";"Nutrend Activity L-Carnitine Drink - 8x 750ml";"21,00";
 "1110100-001";"Nutrend Excelent Bar Double 18x 85g  Chocolate & Nougat with Cranberries";"0,00";
 "1110100-002";"Nutrend Excelent Bar Double 18x 85g  Almond & Pistachio with Pistachios";"0,00";
@@ -3149,8 +3149,8 @@
 "1110600-002";"Nutrend Smash Energy UP - 8x 500ml Gold";"0,00";
 "1110600-003";"Nutrend Smash Energy UP - 8x 500ml Green (sugarfree)";"0,00";
 "1110700-001";"Nutrend Activity Drink + Caffeine - 8x 750ml Ananas";"0,00";
-"1110700-002";"Nutrend Activity Drink + Caffeine - 8x 750ml Lemon";"8,00";
-"1110700-003";"Nutrend Activity Drink + Caffeine - 8x 750ml Orange";"15,00";
+"1110700-002";"Nutrend Activity Drink + Caffeine - 8x 750ml Lemon";"7,00";
+"1110700-003";"Nutrend Activity Drink + Caffeine - 8x 750ml Orange";"14,00";
 "1110800-001";"Nutrend Activity Drink - 8x 750ml Dragon Fruit";"0,00";
 "1110800-002";"Nutrend Activity Drink - 8x 750ml Blackberry Lime";"0,00";
 "1090000-008";"GOT7 Core Bar 12x Riegel  Peanut Butter - Caramel";"0,00";
@@ -4024,10 +4024,10 @@
 "1131400-003";"Blackline 2.0 MASS-DOMINATOR 3628g Delicious Brownie";"0,00";
 "730400";"Nocco BCAA Drink rot (24 x 330 ml)";"0,00";
 "730400-001";"Nocco BCAA Drink rot (24 x 330 ml) Orange";"0,00";
-"730500";"Nocco BCAA Drink 24 x 330 ml";"214,00";
+"730500";"Nocco BCAA Drink 24 x 330 ml";"210,00";
 "730500-001";"Nocco BCAA Drink blau (24 x 330 ml) Lemon Limette";"0,00";
 "730500-002";"Nocco BCAA Drink blau (24 x 330 ml) Rote Beeren";"24,00";
-"730500-003";"Nocco BCAA Drink blau (24 x 330 ml) Pfirsich";"25,00";
+"730500-003";"Nocco BCAA Drink blau (24 x 330 ml) Pfirsich";"24,00";
 "730500-Pfand";"Pfandartikel";"0,00";
 "730400-Pfand";"Pfandartikel";"0,00";
 "1160000";"BPS-Pharma - Damen-Leggings Camo Red";"0,00";
@@ -4457,7 +4457,7 @@
 "1132300";"Blackline 2.0 Core L-Glutamin 500g Dose";"25,00";
 "107-2100";"Revange Nutrition - NZT Brain Power  (20 Kapseln)";"0,00";
 "330300-016";"Biotech Iso Whey Zero 908g White Chocolate";"0,00";
-"340700";"Biotech 100% Pure Whey 2270g";"65,00";
+"340700";"Biotech 100% Pure Whey 2270g";"64,00";
 "340700-002";"Biotech 100% Pure Whey 2270g Chocolate";"0,00";
 "340700-003";"Biotech 100% Pure Whey 2270g Strawberry";"14,00";
 "340700-004";"Biotech 100% Pure Whey 2270g Hazelnut";"11,00";
@@ -5474,7 +5474,7 @@
 "141230-021";"IronMaxx 100% Whey Protein 500g White Choco";"0,00";
 "580200-010";"Grenade Carb Killa Bar - 12x60g White Chocolate Cookie";"0,00";
 "040204";"Peak Createston - 1,64kg Pineapple";"0,00";
-"730500-006";"Nocco BCAA Drink (24 x 330 ml) Citrus/Elderflower";"28,00";
+"730500-006";"Nocco BCAA Drink (24 x 330 ml) Citrus/Elderflower";"27,00";
 "730500-007";"Nocco BCAA Drink (24 x 330 ml) Caribbean";"15,00";
 "730500-008";"Nocco BCAA Drink blau (24 x 330 ml) Tropical";"18,00";
 "471300";"Optimum Nutrition Fish Oil 200 Caps - MHD 12/2018";"0,00";
@@ -6085,7 +6085,7 @@
 "030110";"Chiba - 40447 - Magic Wristwrap";"0,00";
 "1000000-003";"ProFuel TUNNELBLICK 360g Tea Peach";"0,00";
 "338900-013";"BioTech BCAA Zero 360g Winter Tea - Special Edition";"0,00";
-"340700-010";"Biotech 100% Pure Whey 2270g Cookies & Cream";"11,00";
+"340700-010";"Biotech 100% Pure Whey 2270g Cookies & Cream";"10,00";
 "340700-011";"Biotech 100% Pure Whey 2270g Chocolate Peanutbutter";"7,00";
 "340700-012";"Biotech 100% Pure Whey 2270g Salty Caramel";"8,00";
 "340700-013";"Biotech 100% Pure Whey 2270g Cinnamon";"0,00";
@@ -6429,7 +6429,7 @@
 "023700-006";"GN 100% Dairy Casein - 900g Salted Caramel";"0,00";
 "030090";"GN Betain HCL - 200g";"0,00";
 "293000-007";"ESN Fruity Isolate 1kg Pineapple";"0,00";
-"730500-010";"Nocco BCAA Drink 24 x 330 ml Miami - Strawberry";"19,00";
+"730500-010";"Nocco BCAA Drink 24 x 330 ml Miami - Strawberry";"18,00";
 "127000-007";"Barebells Protein Bars 12x 55g  Mint Dark Chocolate";"0,00";
 "181111";"Universal ANIMAL Shaker - 700ml - black";"0,00";
 "353210";"Dedicated Metal Shaker - 600ml";"0,00";
@@ -6574,7 +6574,7 @@
 "023160-001";"GN Pure German L-Leucine Neutral 500g Neutral";"0,00";
 "023170";"GN Acetyl L-Carnitin - 120 Kapseln";"1,00";
 "023180";"GN Berberine Health Line - 120 Kapseln";"0,00";
-"1030720";"Snickers Hi-Protein Bars - 12x55g";"37,00";
+"1030720";"Snickers Hi-Protein Bars - 12x55g";"33,00";
 "1030730";"Mars Hi-Protein Bars - 12x59g";"0,00";
 "1110300-009";"Nutrend FLAPJACK Oatbar 20x 100g  Chocolate Banana with dark Chocolate";"12,00";
 "1110300-010";"Nutrend FLAPJACK Oatbar 20x 100g  Chocolate Sour Cherry";"13,00";
@@ -6886,7 +6886,7 @@
 "016601-003";"Olimp Shaker 600ml Gelb";"0,00";
 "1091200-020";"GOT7 Flavor Drops - Aroma Tropfen ""New Edition"" Stracciatella";"0,00";
 "1131700-013";"Blackline 2.0 Honest Whey+ 2270g Blaubeere Muffin";"1,00";
-"1110700-010";"Nutrend Activity L-Carnitine Drink + Caffeine - 8x 750ml Sparkling Raspberry";"15,00";
+"1110700-010";"Nutrend Activity L-Carnitine Drink + Caffeine - 8x 750ml Sparkling Raspberry";"14,00";
 "056400-004";"Peak EPIC Pump 500 g Blood Orange";"16,00";
 "010100-009";"Olimp Whey Protein Complex 100% - 700g Dragonball Ltd. Edition - Vanilla Ice Cream *NEW*";"0,00";
 "013300-13310";"Olimp BCAA Xplode Powder - 500g Dragon Ball Ltd. Edition - Ice Tea Peach *NEW*";"0,00";
@@ -7230,7 +7230,7 @@
 "330019";"BioTech Vitamin D3 60 Tabletten";"1,00";
 "113001-004";"Blackline 2.0 Juicy Isolate 1kg Mango";"14,00";
 "330020";"BioTech Mega Omega 3, 180 Kapseln";"0,00";
-"330021";"BioTech Chondrotin Glucosamin, 60 Kapsel";"4,00";
+"330021";"BioTech Chondrotin Glucosamin, 60 Kapsel";"3,00";
 "390200-001";"MySHAKER Individueller Shaker 700ml World of Fitness";"0,00";
 "020005";"GN Ecdysterone 60 Kapseln";"0,00";
 "010004";"Olimp Amino EAA Xplode - 260g Pulver";"0,00";
@@ -7542,12 +7542,12 @@
 "141110-023";"IronMaxx 100% Whey Protein - 900g Stracciatella";"0,00";
 "141110-024";"IronMaxx 100% Whey Protein - 900g Vanilla Chocolate Chunk";"0,00";
 "141110-025";"IronMaxx 100% Whey Protein - 900g Vanilla Coffee";"0,00";
-"730500-012";"Nocco BCAA Drink 24 x 330 ml Summer Edition 2020 Limon";"17,00";
+"730500-012";"Nocco BCAA Drink 24 x 330 ml Summer Edition 2020 Limon";"16,00";
 "453";"RCSS Pro-Antium 2,5kg - Chocolate";"0,00";
 "010008";"Olimp Ashwagandha 600 Sport 60 Kapslen";"0,00";
 "1120007";"BPS-Pharma - Fatburner EU";"0,00";
 "330036";"BioTech Ashwagandha 60 Kapseln";"0,00";
-"172001";"Vitamin Well Drink 12x500ml";"30,00";
+"172001";"Vitamin Well Drink 12x500ml";"26,00";
 "172001-001";"Vitamin Well Drink 12x500ml Care";"0,00";
 "172001-002";"Vitamin Well Drink 12x500ml Defence";"0,00";
 "172001-003";"Vitamin Well Drink 12x500ml Reload";"3,00";
@@ -7641,7 +7641,7 @@
 "113004";"Blackline 2.0 Vitamin C - 60 Kapseln";"12,00";
 "172001-006";"Vitamin Well Drink 12x500ml Refresh";"3,00";
 "1091000-015";"GOT7 Premium  Sauce - 285ml - Flaschen einzelnd SatÈ Sauce (Erdnussauce)";"0,00";
-"1110700-011";"Nutrend Activity L-Carnitine Drink + Caffeine - 8x 750ml Mango + Coconut";"15,00";
+"1110700-011";"Nutrend Activity L-Carnitine Drink + Caffeine - 8x 750ml Mango + Coconut";"14,00";
 "290005-003";"ESN Designer Bar Crunchy Box 12x60g Coconut";"0,00";
 "020010";"GN Maltodextrin DE6 - 1000g";"0,00";
 "270810-006";"Smartshake Original2Go One - 600ml Neon Pink";"22,00";
@@ -7930,7 +7930,7 @@
 "152039-004";"MST - BCAA Zero 330g / 55 Serv. Peach";"6,00";
 "152040-002";"MST - BCAA Zero 540g / 90 Serv. green apple";"0,00";
 "MST007";"MST - Creatin HCL 90 caps";"71,00";
-"152053";"MST - Omega 3 Selected 300 Kapseln";"21,00";
+"152053";"MST - Omega 3 Selected 300 Kapseln";"20,00";
 "MST008";"MST - Flex Powder 25 Serv. Green Apple";"0,00";
 "180012";"Universal Animal Fury - Pre-Workout Stack";"0,00";
 "180012-001";"Universal Animal Fury - Pre-Workout Stack blue raspberry";"0,00";
@@ -8372,7 +8372,7 @@
 "180014";"Animal Immune Pak - 30 Packs";"0,00";
 "166012";"Swanson Astragalus Root 470mg - 100 Kapseln";"0,00";
 "166013";"Swanson Gymnema Sylvestre 400mg 100 Kapseln";"0,00";
-"1030009";"Snickers HI Protein White Bar (12x57g)";"17,00";
+"1030009";"Snickers HI Protein White Bar (12x57g)";"13,00";
 "177003-006";"MORE NUTRITION Every Workout - 700g Blaue Himbeere";"0,00";
 "177007-012";"MORE NUTRITION Total Protein - 600g Cinny Crunchy";"0,00";
 "177007-013";"MORE NUTRITION Total Protein - 600g Fruity Crunchy";"0,00";
@@ -8508,7 +8508,7 @@
 "465-001";"GYMQUEEN - Queen Spicery 100g SPICY DIVA";"0,00";
 "465-002";"GYMQUEEN - Queen Spicery 100g INDIAN POWDER";"3,00";
 "MST017-002";"MST - BCAA Zero 330g Peach";"0,00";
-"1110700-012";"Nutrend Activity L-Carnitine Drink + Caffeine - 8x 750ml Cola";"13,00";
+"1110700-012";"Nutrend Activity L-Carnitine Drink + Caffeine - 8x 750ml Cola";"12,00";
 "950021-004";"FA Nutrition WOW Protein Bar 45g Milk Chocolate";"0,00";
 "950021-005";"FA Nutrition WOW Protein Bar 40g Crispy White Chocolate";"0,00";
 "950028";"FA Nutrition BAD ASS Water Jug 1,3L red/white";"3,00";
@@ -10234,7 +10234,7 @@
 "1030015";"M&M DAMAGED BOX Protein Bar 12x51g Peanut";"0,00";
 "730500-015";"Nocco BCAA Drink 24 x 330 ml Mango del Sol";"20,00";
 "127004-003";"Barebells Vegan Bar 12x 55g Chocolate Dough";"0,00";
-"172001-008";"Vitamin Well Drink 12x500ml Active (MHD:22.01.22)";"20,00";
+"172001-008";"Vitamin Well Drink 12x500ml Active (MHD:22.01.22)";"16,00";
 "620013";"Weider EINZELN Protein Shake 1x250ml";"0,00";
 "620013-001";"Weider EINZELN Protein Shake 1x250ml Vanille";"0,00";
 "330088";"BioTech MCT Oil 300g ";"10,00";
@@ -10256,9 +10256,9 @@
 "330096";"BioTech Peanut Butter 1000g";"0,00";
 "330096-001";"BioTech Peanut Butter 1000g Smooth";"0,00";
 "330096-002";"BioTech Peanut Butter 1000g Crunchy";"0,00";
-"330097";"BioTech Arthro Forte 340g";"11,00";
+"330097";"BioTech Arthro Forte 340g";"10,00";
 "330097-001";"BioTech Arthro Forte 340g Blackcurrant";"4,00";
-"330097-002";"BioTech Arthro Forte 340g Tropical Fruit";"7,00";
+"330097-002";"BioTech Arthro Forte 340g Tropical Fruit";"6,00";
 "950081";"FA Nutrition Next-Gen Pre Energizer 270g";"3,00";
 "950081-001";"FA Nutrition Next-Gen Pre Energizer 270g Orange Mango";"3,00";
 "950081-002";"FA Nutrition Next-Gen Pre Energizer 270g Citrus Peach";"0,00";
@@ -10937,10 +10937,10 @@
 "240003-007";"Scivation Xtend BCAA (30serv.) Smash Apple";"3,00";
 "196005-002";"Swedish Supplements Bloody Pump 550 g Pineapple Passion";"18,00";
 "196004-008";"Swedish Supplements The Butcher 525 g Battlefield Red";"0,00";
-"196008";"Swedish Supplements Fucked Up RTD 330ml EINZELNE DOSE";"30,00";
+"196008";"Swedish Supplements Fucked Up RTD 330ml EINZELNE DOSE";"26,00";
 "196009";"Swedish Supplements Whey Protein Deluxe 1kg";"30,00";
 "196010";"Swedish Supplements Fucked Up Headshot 16x100ml";"5,00";
-"196008-001";"Swedish Supplements Fucked Up RTD 330ml EINZELNE DOSE Raspberry";"7,00";
+"196008-001";"Swedish Supplements Fucked Up RTD 330ml EINZELNE DOSE Raspberry";"5,00";
 "196009-001";"Swedish Supplements Whey Protein Deluxe 1kg Chocolate Coconut";"7,00";
 "196009-002";"Swedish Supplements Whey Protein Deluxe 1kg Chocolate Fudge";"0,00";
 "196009-003";"Swedish Supplements Whey Protein Deluxe 1kg Salty Caramel";"13,00";
@@ -11144,7 +11144,7 @@
 "950109-003";"Kevin Levrone Anabolic LEAA9 240g Fruit Passage";"22,00";
 "950056-003";"Kevin Levrone EAA 195g Lemon Lime";"0,00";
 "950058-004";"FA Nutrition Anticatabolix 375g Dragon Fruit";"9,00";
-"204004";"BAD ASS - FLEX 44 Portionen";"10,00";
+"204004";"BAD ASS - FLEX 44 Portionen";"9,00";
 "950141";"Kevin Levrone GOLD LEAN MASS 3kg";"18,00";
 "950141-001";"Kevin Levrone GOLD LEAN MASS 3kg Vanilla";"10,00";
 "950142";"Kevin Levrone GOLD LEAN MASS 6kg";"13,00";
@@ -11201,7 +11201,7 @@
 "250001-005";"USP Labs Jack3d Advanced 45 Serv. lemon lime";"0,00";
 "196010-002";"Swedish Supplements Fucked Up Headshot 16x100ml Raspberry";"1,00";
 "196010-003";"Swedish Supplements Fucked Up Headshot 16x100ml Sour Cola";"4,00";
-"196008-002";"Swedish Supplements Fucked Up RTD 330ml EINZELNE DOSE Energy Drink";"23,00";
+"196008-002";"Swedish Supplements Fucked Up RTD 330ml EINZELNE DOSE Energy Drink";"21,00";
 "157000-007";"AK47 Labs Pre-Workout Paranoia - 240g Tigers Blood NEU";"7,00";
 "352700-005";"Dedicated T-Shirt ""Get Shit Done"" XXL";"4,00";
 "352400-006";"Dedicated T-Shirt ""Cardio is for Pussies"" XXXL";"2,00";
@@ -11342,7 +11342,7 @@
 "213002-002";"Alasature Protein Muffin 10 x 75g Lotus";"26,00";
 "213002-003";"Alasature Protein Muffin 10 x 75g Kinder";"13,00";
 "152032-004";"MST - Collagen Pulver + Vitamin C - 390g Orange";"0,00";
-"152107";"MST - Collagen Pulver + Vitamin C - 305,5g";"8,00";
+"152107";"MST - Collagen Pulver + Vitamin C - 305,5g";"7,00";
 "152107-001";"MST - Collagen Pulver + Vitamin C - 305,5g Orange";"0,00";
 "210001-013";"Big Zone Battle Whey 1000g Milch mit Honig";"15,00";
 "210001-014";"Big Zone Battle Whey 1000g Vanille Macchiato";"0,00";
@@ -11485,7 +11485,7 @@
 "216001-002";"Take-a-Whey High protein Bar - 24x46g Peanut & Caramel";"1,00";
 "1750016-004";"Applied Nutrition Critical Cookie (12x85g) White Chocolate Raspberry";"0,00";
 "152105-002";"MST - Protein HydroWhey 900g Dose Orange-Maracuja";"6,00";
-"152107-002";"MST - Collagen Pulver + Vitamin C - 305,5g Green Apple";"8,00";
+"152107-002";"MST - Collagen Pulver + Vitamin C - 305,5g Green Apple";"7,00";
 "152014-007";"MST - BCAA & EAA 520g Zero Lemon Ice Tea";"13,00";
 "152014-008";"MST - BCAA & EAA 520g Zero Pear-Lime";"19,00";
 "152014-009";"MST - BCAA & EAA 520g Zero Wild Cherry";"2,00";
@@ -11510,19 +11510,19 @@
 "171501-002";"MusclePharm Assault Energy + Endurance 345g Fruit Punch";"27,00";
 "171501-003";"MusclePharm Assault Energy + Endurance 345g Green Apple";"27,00";
 "171501-004";"MusclePharm Assault Energy + Endurance 345g Strawberry Ice";"27,00";
-"215001";"Sven Jack (Energycake) 12 x 125g";"620,00";
+"215001";"Sven Jack (Energycake) 12 x 125g";"617,00";
 "010034";"Olimp Shaker 700ml Blau/ Transparent";"17,00";
 "215001-001";"Sven Jack (Energycake) 12 x 125g Original";"58,00";
 "215001-002";"Sven Jack (Energycake) 12 x 125g Apfelstrudel";"39,00";
 "215001-003";"Sven Jack (Energycake) 12 x 125g Cappuccino";"50,00";
 "215001-004";"Sven Jack (Energycake) 12 x 125g Cookies-Cream";"49,00";
 "215001-005";"Sven Jack (Energycake) 12 x 125g Cranberry";"35,00";
-"215001-006";"Sven Jack (Energycake) 12 x 125g Joghurt";"40,00";
+"215001-006";"Sven Jack (Energycake) 12 x 125g Joghurt";"39,00";
 "215001-007";"Sven Jack (Energycake) 12 x 125g Double Chocolate";"47,00";
 "215001-008";"Sven Jack (Energycake) 12 x 125g Aprikose";"35,00";
 "215001-009";"Sven Jack (Energycake) 12 x 125g Schoko-Orange";"5,00";
-"215001-010";"Sven Jack (Energycake) 12 x 125g Schokolade";"64,00";
-"215001-011";"Sven Jack (Energycake) 12 x 125g Weiﬂe Schokolade";"47,00";
+"215001-010";"Sven Jack (Energycake) 12 x 125g Schokolade";"63,00";
+"215001-011";"Sven Jack (Energycake) 12 x 125g Weiﬂe Schokolade";"46,00";
 "215001-012";"Sven Jack (Energycake) 12 x 125g Zitrone";"32,00";
 "215001-013";"Sven Jack (Energycake) 12 x 125g Schoko-Mandel";"46,00";
 "215001-014";"Sven Jack (Energycake) 12 x 125g Erdbeere";"47,00";
