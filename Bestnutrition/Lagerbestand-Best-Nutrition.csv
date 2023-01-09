@@ -706,7 +706,7 @@
 "060800";"Strimex Creabon 100% micronezed Creatine - 500g";"0,00";
 "023100";"GN Citrulline Polyhydrate 200g";"0,00";
 "320400-0006";"Scitec Fourstar Protein - 500g Raspberry Vanilla Yogurt";"0,00";
-"320600";"Scitec 100% Whey Professional 920g";"108,00";
+"320600";"Scitec 100% Whey Professional 920g";"107,00";
 "320700";"Scitec Beef Aminos 200 Tabletten";"0,00";
 "320900";"Scitec Amino 5600 - 200 Tabletten";"7,00";
 "321000";"Scitec Amino 5600 - 500 Tabletten";"15,00";
@@ -728,7 +728,7 @@
 "322000-0001";"Scitec Jumbo 4400g Schokolade";"0,00";
 "322000-0002";"Scitec Jumbo 4400g Erdbeere";"0,00";
 "322000-0003";"Scitec Jumbo 4400g Vanille";"0,00";
-"320600-024";"Scitec 100% Whey Professional 920g Strawberry White Chocolate";"1,00";
+"320600-024";"Scitec 100% Whey Professional 920g Strawberry White Chocolate";"0,00";
 "320600-0002";"Scitec 100% Whey Professional 920g Vanilla Verry Berry";"6,00";
 "320600-005";"Scitec 100% Whey Professional 920g Vanilla-Light";"0,00";
 "320600-006";"Scitec 100% Whey Professional 920g Banana";"13,00";
@@ -1334,9 +1334,9 @@
 "590800";"All Stars RAW 2.0 Intensity 250g";"0,00";
 "590900";"All Stars TEST-X2 150 Kapseln";"0,00";
 "040800";"Weider Kühlschrank + Warenpaket Aktion ";"-2,00";
-"332200";"BioTech Hyper Mass - 1000g";"28,00";
+"332200";"BioTech Hyper Mass - 1000g";"18,00";
 "332300";"BioTech Hyper Mass - 4000g";"4,00";
-"332200-0001";"BioTech Hyper Mass - 1000g Vanille";"10,00";
+"332200-0001";"BioTech Hyper Mass - 1000g Vanille";"0,00";
 "332200-0002";"BioTech Hyper Mass - 1000g Himbeere-Joghurt";"0,00";
 "332200-0003";"BioTech Hyper Mass - 1000g Schokolade";"9,00";
 "332400";"BioTech BCAA+B6 200 Tabl";"11,00";
@@ -2747,7 +2747,7 @@
 "531800";"Body Attack Muscle Creatine (Creapure) 500g";"0,00";
 "531900";"Body Attack Tribulus 2400, 150 Kapsel";"0,00";
 "532000";"Body Attack Testo Shock 2.0 - 90 Kapsel";"0,00";
-"532100";"Body Attack Nitro Pump 3.0 - 400g";"10,00";
+"532100";"Body Attack Nitro Pump 3.0 - 400g";"4,00";
 "532200";"Body Attack Maca 3000 - 90 Caps";"0,00";
 "532300";"Body Attack LIPO 100-HARDCORE - 60 Caps";"0,00";
 "532400";"Body Attack Appetite Reducer - 60 Caps";"8,00";
@@ -3491,11 +3491,11 @@
 "980100-002";"Muscle Moose Juice Energy BCAA Drink Zero Sugar - (12x500ml) Blue Raspberry";"0,00";
 "352200";"Dedicated Premium Gym-Bag / Tasche";"5,00";
 "338800";"BioTech Ulisses Shaper 90 Kapsel";"7,00";
-"338900";"BioTech BCAA Zero 360g";"57,00";
+"338900";"BioTech BCAA Zero 360g";"39,00";
 "338900-001";"BioTech BCAA Zero 360g Blue Grape";"14,00";
 "338900-002";"BioTech BCAA Zero 360g Cola";"7,00";
 "338900-003";"BioTech BCAA Zero 360g Ice Tea Peach";"0,00";
-"338900-004";"BioTech BCAA Zero 360g Orange";"8,00";
+"338900-004";"BioTech BCAA Zero 360g Orange";"2,00";
 "338900-005";"BioTech BCAA Zero 360g Pineapple Mango";"0,00";
 "031100-006";"Chiba - 40400 - Power schwarz XS";"7,00";
 "790200";"URX Shell Shock 90 Caps";"0,00";
@@ -3643,7 +3643,7 @@
 "3215500-01";"Scitec NEW Style Protein 450g  Erdbeere";"0,00";
 "3215500-02";"Scitec NEW Style Protein 450g  Schoko";"0,00";
 "3215500-03";"Scitec NEW Style Protein 450g  Vanille";"0,00";
-"3215600";"Scitec Liver Support - 80 Kapsel";"9,00";
+"3215600";"Scitec Liver Support - 80 Kapsel";"3,00";
 "3215700";"Scitec Attack 2.0 320g";"0,00";
 "3215700-01";"Scitec Attack 2.0 320g Cherry";"0,00";
 "3215700-02";"Scitec Attack 2.0 320g Birne";"0,00";
@@ -4540,7 +4540,7 @@
 "341100-005";"Biotech Casein Zero 2270g Erdbeere";"0,00";
 "341100-009";"Biotech Casein Zero 2270g Schokolade";"0,00";
 "341100-011";"Biotech Casein Zero 2270g Vanille";"0,00";
-"341200";"BioTech EAA Zero 350g";"20,00";
+"341200";"BioTech EAA Zero 350g";"19,00";
 "341200-001";"BioTech EAA Zero 350g Lemon";"0,00";
 "341200-002";"BioTech EAA Zero 350g Blue Grape";"0,00";
 "600100-007";"Blender Bottle Sportmixer 820ml Black Cyan";"3,00";
@@ -4852,7 +4852,7 @@
 "340900-002";"BioTech BCAA Flash Zero 700g Cola";"0,00";
 "019920";"Olimp CLA + Green Tea plus L-Carnitine Sport Edt. 60 Kapsel";"0,00";
 "532900-008";"Body Attack Flav Drops 50ml Blueberry - MHD 31.08.2018";"0,00";
-"533900";"Body Attack BCAA Capsules 180 Caps";"11,00";
+"533900";"Body Attack BCAA Capsules 180 Caps";"5,00";
 "016300-001";"Olimp BCAA Xplode ENERGY 500g Cola";"0,00";
 "016300-002";"Olimp BCAA Xplode ENERGY 500g Fruit Punch";"0,00";
 "120300-0007";"Mutant Mass - 6,8kg Coconut Cream *NEW";"0,00";
@@ -4901,7 +4901,7 @@
 "534100";"Body Attack Protein Coffee - Latte Caramel (12*250ml)";"1,00";
 "534200";"Body Attack Tribulus Extreme - 80 Caps";"0,00";
 "532100-001";"Body Attack Nitro Pump 3.0 - 400g Cranberry";"4,00";
-"532100-002";"Body Attack Nitro Pump 3.0 - 400g Peach Passion Fruit";"6,00";
+"532100-002";"Body Attack Nitro Pump 3.0 - 400g Peach Passion Fruit";"0,00";
 "11001400";"Blackline Supplements ""SUIZIDE"" Pump +V. 35 Serv. ";"0,00";
 "11001400-01";"Blackline Supplements ""SUIZIDE"" Pump +V. 35 Serv.  Rotten Apple";"0,00";
 "11001400-02";"Blackline Supplements ""SUIZIDE"" Pump +V. 35 Serv.  Orange";"0,00";
@@ -5595,9 +5595,9 @@
 "3213900-002";"Scitec Jumbo Prof. 3240g Banane";"0,00";
 "3213900-003";"Scitec Jumbo Prof. 3240g Himbeere";"0,00";
 "107-4000";"Revange Nutrition - MK-677 10mg (30 Kapseln)";"0,00";
-"338900-007";"BioTech BCAA Zero 360g Tropical Fruit";"6,00";
+"338900-007";"BioTech BCAA Zero 360g Tropical Fruit";"0,00";
 "338900-008";"BioTech BCAA Zero 360g Watermelon";"0,00";
-"338900-009";"BioTech BCAA Zero 360g Kiwi-Lime";"11,00";
+"338900-009";"BioTech BCAA Zero 360g Kiwi-Lime";"5,00";
 "338900-010";"BioTech BCAA Zero 360g Lemon Ice Tea";"11,00";
 "338900-011";"BioTech BCAA Zero 360g Cherry Cola";"0,00";
 "338900-012";"BioTech BCAA Zero 360g Edelflower";"0,00";
@@ -7016,7 +7016,7 @@
 "341000-004";"Biotech Casein Zero 908g Hazelnut *NEW*";"0,00";
 "341000-005";"Biotech Casein Zero 908g Banane *NEW*";"0,00";
 "341000-006";"Biotech Casein Zero 908g Cinnamon Roll*NEW*";"0,00";
-"341200-003";"BioTech EAA Zero 350g Lemon Ice Tea *NEW*";"1,00";
+"341200-003";"BioTech EAA Zero 350g Lemon Ice Tea *NEW*";"0,00";
 "341200-004";"BioTech EAA Zero 350g Pineapple-Mango *NEW*";"0,00";
 "341200-005";"BioTech EAA Zero 350g Apple *NEW*";"0,00";
 "1340200-016";"Lean:Life Flavourlicious 30ml Strawberry Cheesecake *NEW*";"0,00";
@@ -8302,9 +8302,9 @@
 "166011";"Swanson Berberine 60 Kapseln";"0,00";
 "150300-004";"Gaspari Nutrition SuperPump Max 640g Fruit Punch";"0,00";
 "1110017";"Nutrend Multi HERB 90 Kapseln";"10,00";
-"1110018";"Nutrend 100% Whey Protein 1000g";"158,00";
+"1110018";"Nutrend 100% Whey Protein 1000g";"154,00";
 "1110018-001";"Nutrend 100% Whey Protein 1000g Vanille";"0,00";
-"1110018-002";"Nutrend 100% Whey Protein 1000g Schoko Brownie";"4,00";
+"1110018-002";"Nutrend 100% Whey Protein 1000g Schoko Brownie";"1,00";
 "1110018-003";"Nutrend 100% Whey Protein 1000g Schoko Kokos";"18,00";
 "1110018-004";"Nutrend 100% Whey Protein 1000g Schokolade Kakao";"0,00";
 "1110018-005";"Nutrend 100% Whey Protein 1000g Cookies & Cream";"31,00";
@@ -8317,7 +8317,7 @@
 "1110018-012";"Nutrend 100% Whey Protein 1000g Kiwi Banane";"13,00";
 "1110018-013";"Nutrend 100% Whey Protein 1000g Eiskaffee";"15,00";
 "1110018-014";"Nutrend 100% Whey Protein 1000g Himbeere";"10,00";
-"1110018-015";"Nutrend 100% Whey Protein 1000g Mango Vanille";"13,00";
+"1110018-015";"Nutrend 100% Whey Protein 1000g Mango Vanille";"12,00";
 "1110018-016";"Nutrend 100% Whey Protein 1000g Orange";"30,00";
 "113006";"Blackline 2.0 Greens & Reds 300g";"5,00";
 "010013";"Olimp Zero Sauce 250ml";"0,00";
@@ -8983,7 +8983,7 @@
 "360003-003";"Cellucor C4 ULTIMATE 40 Serv. 880g Strawberry Watermelon";"0,00";
 "731100-005";"Multipower 50g High Protein Shake 12x500ml Cookies MHD 10.01.2022";"0,00";
 "320200-034";"Scitec 100% Whey Professional 2350g Salted Caramel *NEU";"2,00";
-"320200-035";"Scitec 100% Whey Professional 2350g Peanutbutter *NEU";"2,00";
+"320200-035";"Scitec 100% Whey Professional 2350g Peanutbutter *NEU";"1,00";
 "MST80";"MST - Amino Pump 250g (unflavoured) Citrullin / Arginine HCL";"0,00";
 "MST080";"MST - Glutamine RAW 500g";"0,00";
 "MST081";"MST - Citrulline 2:1 -  250g neutral";"22,00";
@@ -10803,7 +10803,7 @@
 "210011";"Big Zone Masstiff 2000g";"15,00";
 "210012";"Big Zone Rest in Peace Zitrone 300g";"3,00";
 "210013";"Big Zone Peanut Butter 1000g";"25,00";
-"210014";"Big Zone Zink Bisglycinat 150 Tabletten";"12,00";
+"210014";"Big Zone Zink Bisglycinat 150 Tabletten";"11,00";
 "141018-003";"Ironmaxx Cookie Bar 24x45g Chocolate Brownie";"0,00";
 "210015";"Big Zone Vitamin C 120 Kapseln";"0,00";
 "210016";"Big Zone Vita-min Inject 180 Kapseln";"2,00";
@@ -10827,7 +10827,7 @@
 "440011-005";"Golds Gym GGVTS004 Stringer Joe Contrast - Red/White XXL";"3,00";
 "157008-002";"AK47 Labs Schizo Pre-Workout 400g Watermelon";"0,00";
 "1750002-003";"Applied Nutrition Pump-3G 375g unicorn";"26,00";
-"211001";"Beverly Nutrition Isolate ClearShake Professional ARLA 908g (30 Serv.)";"67,00";
+"211001";"Beverly Nutrition Isolate ClearShake Professional ARLA 908g (30 Serv.)";"66,00";
 "1750030";"Applied Nutrition Iso-XP 1000g";"105,00";
 "1750030-001";"Applied Nutrition Iso-XP 1000g Choco Bueno";"0,00";
 "1750030-002";"Applied Nutrition Iso-XP 1000g Choco Candies";"23,00";
@@ -10887,7 +10887,7 @@
 "330105-002";"BioTech Protein Pancake 1000g Chocolate";"1,00";
 "460510";"Rich Piana 5% Nutrition DIGESTIVE DEFENDER - 1x Diges-Ten 60 Kapseln & 1x Probio-75 60 Kapseln";"7,00";
 "430006";"Muscletech Hydroxycut Lose Weight 72 Kapseln";"11,00";
-"190105";"Nutrex TRIBULUS Black 1300 120 Kapseln";"3,00";
+"190105";"Nutrex TRIBULUS Black 1300 120 Kapseln";"2,00";
 "190102";"Nutrex Lipo 6 Black CLEANSE & DETOX 60 Kapseln";"9,00";
 "190101";"Nutrex Lipo 6 Black DIURETIC 80 Kapseln";"8,00";
 "190104";"Nutrex Lipo 6 Black INTENSE 60 Kapseln";"23,00";
@@ -10926,7 +10926,7 @@
 "199031-001";"XXL Nutrition Thermo RVS Shaker 800ml Schwarz + roter Deckel";"0,00";
 "199031-002";"XXL Nutrition Thermo RVS Shaker 800ml Weiß + lila Deckel";"9,00";
 "211001-001";"Beverly Nutrition Isolate ClearShake Professional ARLA 908g (30 Serv.) Caribbean Cooler";"51,00";
-"211001-002";"Beverly Nutrition Isolate ClearShake Professional ARLA 908g (30 Serv.) Orange Mango";"7,00";
+"211001-002";"Beverly Nutrition Isolate ClearShake Professional ARLA 908g (30 Serv.) Orange Mango";"6,00";
 "211001-003";"Beverly Nutrition Isolate ClearShake Professional ARLA 908g (30 Serv.) Strawberry Kiwi";"9,00";
 "211003-001";"Beverly Nutrition Dofit Filling Zero 12 x 75g Black Cookies";"0,00";
 "211003-002";"Beverly Nutrition Dofit Filling Zero 12 x 75g Speculoos Cream";"5,00";
@@ -11080,7 +11080,7 @@
 "MST131";"MST - Beauty Collagen 225g";"27,00";
 "MST131-001";"MST - Beauty Collagen 225g Pineapple";"14,00";
 "MST131-002";"MST - Beauty Collagen 225g Mango-Kiwi";"13,00";
-"113300";"Blackline 2.0 Honest Whey+ 1000g";"426,00";
+"113300";"Blackline 2.0 Honest Whey+ 1000g";"422,00";
 "113300-017";"Blackline 2.0 Honest Whey+ 1000g Apfelstrudel";"27,00";
 "113300-022";"Blackline 2.0 Honest Whey+ 1000g Bienenstich";"0,00";
 "113300-003";"Blackline 2.0 Honest Whey+ 1000g Butterkeeeks";"0,00";
@@ -11089,7 +11089,7 @@
 "113300-013";"Blackline 2.0 Honest Whey+ 1000g Cocos & Cream";"36,00";
 "113300-035";"Blackline 2.0 Honest Whey+ 1000g Eiskaffee";"0,00";
 "113300-030";"Blackline 2.0 Honest Whey+ 1000g Erdbeer Shake";"41,00";
-"113300-005";"Blackline 2.0 Honest Whey+ 1000g Haselnuss";"42,00";
+"113300-005";"Blackline 2.0 Honest Whey+ 1000g Haselnuss";"40,00";
 "113300-001";"Blackline 2.0 Honest Whey+ 1000g Milchreis Zimt";"19,00";
 "113300-034";"Blackline 2.0 Honest Whey+ 1000g Orange Maracuja";"18,00";
 "113300-024";"Blackline 2.0 Honest Whey+ 1000g Peach Yoghurt";"11,00";
@@ -11104,14 +11104,14 @@
 "113300-033";"Blackline 2.0 Honest Whey+ 1000g Blaubeere Muffin";"0,00";
 "113300-036";"Blackline 2.0 Honest Whey+ 1000g Franzbrötchen";"10,00";
 "113300-038";"Blackline 2.0 Honest Whey+ 1000g Heiße Milch mit Honig";"0,00";
-"113300-029";"Blackline 2.0 Honest Whey+ 1000g Peanutbutter";"42,00";
+"113300-029";"Blackline 2.0 Honest Whey+ 1000g Peanutbutter";"40,00";
 "113300-004";"Blackline 2.0 Honest Whey+ 1000g Sommerfrüchte";"21,00";
 "113015";"Sinob Melatonin Tropfen 50ml (1400 Tropfen)";"9,00";
 "133100-026";"ASVita Fresh Mix Mineralgetränk 1:80 - 5L Cola";"13,00";
 "133100-027";"ASVita Fresh Mix Mineralgetränk 1:80 - 5L Maracuja-Papaya";"0,00";
 "113016";"Sinob Vitamin B12 Tropfen 10ml";"12,00";
 "113017";"Sinob Vitamin D3 + K2 Tropfen 10ml";"20,00";
-"113018";"Sinob Omega 3 180 Softgels";"31,00";
+"113018";"Sinob Omega 3 180 Softgels";"30,00";
 "113300-050";"Blackline 2.0 Honest Whey+ Vanilla Ice Cream 820g *NEU";"65,00";
 "113019";"Sinob Core CykloDex 1kg (Cluster Dextrin)";"47,00";
 "1000031";"ProFuel Melatonin GUMMIBÄRCHEN 60 ";"9,00";
