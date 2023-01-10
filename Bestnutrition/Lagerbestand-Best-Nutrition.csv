@@ -670,7 +670,7 @@
 "320200-001";"Scitec 100% Whey Professional 2350g Strawberry White Chocolate";"2,00";
 "320200-002";"Scitec 100% Whey Professional 2350g Vanilla Verry Berry";"0,00";
 "320200-003";"Scitec 100% Whey Professional 2350g Vanilla-Light";"0,00";
-"320200-004";"Scitec 100% Whey Professional 2350g Banana";"0,00";
+"320200-004";"Scitec 100% Whey Professional 2350g Banana";"-1,00";
 "320200-005";"Scitec 100% Whey Professional 2350g Coconut Chocolate";"0,00";
 "320200-006";"Scitec 100% Whey Professional 2350g Chocolate-Light";"0,00";
 "320200-008";"Scitec 100% Whey Professional 2350g Honig-Vanilla";"0,00";
@@ -6572,7 +6572,7 @@
 "128000-007";"NovoX EGG Protein Liquid X-60 - 300ml Lemon - MHD 25.12.2020";"0,00";
 "023160";"GN Pure German L-Leucine Neutral 500g";"0,00";
 "023160-001";"GN Pure German L-Leucine Neutral 500g Neutral";"0,00";
-"023170";"GN Acetyl L-Carnitin - 120 Kapseln";"0,00";
+"023170";"GN Acetyl L-Carnitin - 120 Kapseln";"-1,00";
 "023180";"GN Berberine Health Line - 120 Kapseln";"0,00";
 "1030720";"Snickers Hi-Protein Bars - 12x55g";"30,00";
 "1030730";"Mars Hi-Protein Bars - 12x59g";"0,00";
@@ -7813,11 +7813,11 @@
 "950010";"Kevin Levrone Gold Amino Rebuild 400 g";"29,00";
 "950010-001";"Kevin Levrone Gold Amino Rebuild 400 g Forest Fruit";"0,00";
 "950010-002";"Kevin Levrone Gold Amino Rebuild 400 g Orange";"13,00";
-"950011";"Kevin Levrone Gold Whey 2 kg";"22,00";
+"950011";"Kevin Levrone Gold Whey 2 kg";"15,00";
 "950011-001";"Kevin Levrone Gold Whey 2 kg Chocolate";"0,00";
-"950011-002";"Kevin Levrone Gold Whey 2 kg Strawberry";"6,00";
+"950011-002";"Kevin Levrone Gold Whey 2 kg Strawberry";"3,00";
 "950011-003";"Kevin Levrone Gold Whey 2 kg Vanilla";"0,00";
-"950011-004";"Kevin Levrone Gold Whey 2 kg Cookies & Cream";"10,00";
+"950011-004";"Kevin Levrone Gold Whey 2 kg Cookies & Cream";"8,00";
 "950012";"Kevin Levrone Shaker 500 ml Silver/Black";"0,00";
 "110500-002";"ProSupps Mr. Hyde Ntro-X 231g Blue Razz Popsicle";"0,00";
 "148000-010";"Monster Energy Zero - (12x500ml) Black";"4,00";
@@ -8239,7 +8239,7 @@
 "1560005";"Coca Cola Life USA Import - 24x355ml";"0,00";
 "530002-006";"Body Attack Power Weight Gainer 4,75kg Milk Chocolate";"3,00";
 "230004";"Tested Probiotic - 60 Kapseln";"0,00";
-"950011-007";"Kevin Levrone Gold Whey 2 kg Bunty";"6,00";
+"950011-007";"Kevin Levrone Gold Whey 2 kg Bunty";"4,00";
 "1000004";"ProFuel Omega 3 90 Kapseln";"4,00";
 "1000005";"ProFuel veeBITE Protein Riegel 12er Pack";"0,00";
 "1000005-001";"ProFuel veeBITE Protein Riegel 12er Pack Weisse Schoko Himbeere";"0,00";
@@ -9686,9 +9686,9 @@
 "950301-007";"FA Nutrition Xtreme Napalm PreContest PUMP - 350g Dragon Fruit";"0,00";
 "950060-004";"Skull Labs Ripped Mass 3kg Strawberry";"7,00";
 "950060-005";"Skull Labs Ripped Mass 3kg Snikers";"0,00";
-"950061";"Skull Labs Executioner Whey 2kg";"37,00";
+"950061";"Skull Labs Executioner Whey 2kg";"34,00";
 "950061-001";"Skull Labs Executioner Whey 2kg Chocolate";"9,00";
-"950061-002";"Skull Labs Executioner Whey 2kg Vanilla";"12,00";
+"950061-002";"Skull Labs Executioner Whey 2kg Vanilla";"9,00";
 "950061-003";"Skull Labs Executioner Whey 2kg Strawberry";"0,00";
 "950061-004";"Skull Labs Executioner Whey 2kg Cookies & Cream";"0,00";
 "950062";"FA Nutrition Xtreme Glutamine 500g";"23,00";
@@ -10726,7 +10726,7 @@
 "320012-001";"Scitec Prime Bite Protein Bar 20 x 50g Fudge Brownie";"0,00";
 "320012-002";"Scitec Prime Bite Protein Bar 20 x 50g Cookies&Cream";"4,00";
 "320012-003";"Scitec Prime Bite Protein Bar 20 x 50g Kokosnuss Panna Cotta";"2,00";
-"165012";"Evolite Nutrition - Creatine Monohydrate unflavoured 500g";"345,00";
+"165012";"Evolite Nutrition - Creatine Monohydrate unflavoured 500g";"343,00";
 "530011-009";"Body Attack Extreme ISO WHEY 1,8kg Banana";"2,00";
 "320500-005";"Scitec Amino Charge 570g Blaue Himbeere";"6,00";
 "141009-012";"IronMaxx 100% Vegan Protein Zero 500g Creamy Chocolate";"0,00";
