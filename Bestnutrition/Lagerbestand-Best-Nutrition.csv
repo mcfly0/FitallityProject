@@ -992,9 +992,9 @@
 "170900-0002";"MusclePharm Assault - 435g";"0,00";
 "170900-0003";"MusclePharm Assault - 435g";"0,00";
 "171200";"Muscle Pharm Armor V 180 caps";"0,00";
-"470100";"ON Serious Mass 12lbs";"10,00";
+"470100";"ON Serious Mass 12lbs";"9,00";
 "470100-001";"ON Serious Mass 12lbs Schokolade";"0,00";
-"470100-002";"ON Serious Mass 12lbs Vanille";"1,00";
+"470100-002";"ON Serious Mass 12lbs Vanille";"0,00";
 "470100-003";"ON Serious Mass 12lbs Erdbeere";"4,00";
 "350400";"Dedicated Fusion Pro Protein 4 lbs.";"0,00";
 "061200";"Strimex Regeneration Complete - Amino Liquid 1000ml";"0,00";
@@ -7752,9 +7752,9 @@
 "950004-003";"Kevin Levrone EAA 390g Fruit Punch";"0,00";
 "950006-006";"Kevin Levrone Anabolic Mass 7kg Cookies&Cream";"0,00";
 "952800-006";"FA Nutrition CORE Mass 7kg Snickers";"0,00";
-"950008";"Kevin Levrone Anabolic Mass 3kg";"72,00";
+"950008";"Kevin Levrone Anabolic Mass 3kg";"71,00";
 "950008-001";"Kevin Levrone Anabolic Mass 3kg Vanilla";"4,00";
-"950008-002";"Kevin Levrone Anabolic Mass 3kg Strawberry";"1,00";
+"950008-002";"Kevin Levrone Anabolic Mass 3kg Strawberry";"0,00";
 "950008-003";"Kevin Levrone Anabolic Mass 3kg Chocolate";"14,00";
 "950008-004";"Kevin Levrone Anabolic Mass 3kg Snickers";"1,00";
 "950008-005";"Kevin Levrone Anabolic Mass 3kg Cookies&Cream";"14,00";
@@ -8714,7 +8714,7 @@
 "950037-003";"Kevin Levrone GOLD ISO - 2 kg Chocolate";"0,00";
 "950037-004";"Kevin Levrone GOLD ISO - 2 kg Snikers";"0,00";
 "950037-005";"Kevin Levrone GOLD ISO - 2 kg Vanilla";"2,00";
-"950038";"Kevin Levrone Unique Protein Spread 500g";"12,00";
+"950038";"Kevin Levrone Unique Protein Spread 500g";"9,00";
 "950038-001";"Kevin Levrone Unique Protein Spread 500g Coconut";"0,00";
 "950038-002";"Kevin Levrone Unique Protein Spread 500g Salted Caramel";"0,00";
 "950038-003";"Kevin Levrone Unique Protein Spread 500g White Chocolate";"0,00";
@@ -10003,7 +10003,7 @@
 "199008-003";"XXL Nutrition 0% Sirup 425ml Pfannkuchensirup";"0,00";
 "950061-005";"Skull Labs Executioner Whey 2kg Snickers";"16,00";
 "950043-003";"Kevin Levrone Maryland Muscle Machine 385g Fruit Punch";"0,00";
-"950038-004";"Kevin Levrone Unique Protein Spread 500g Cocoa Hazelnut";"7,00";
+"950038-004";"Kevin Levrone Unique Protein Spread 500g Cocoa Hazelnut";"4,00";
 "950038-005";"Kevin Levrone Unique Protein Spread 500g Double Chocolate";"5,00";
 "950014-006";"Kevin Levrone BCAA DEFENDER 250g Cherry Ice";"1,00";
 "950004-004";"Kevin Levrone EAA 390g Lemon Lime";"8,00";
@@ -11252,8 +11252,8 @@
 "330114-001";"BioTech Iso Whey Zero Clear Energy 454g Tutti Frutti";"2,00";
 "330113-001";"BioTech Protein Bar 20 x 35g Double Chocolate";"0,00";
 "330113-002";"BioTech Protein Bar 20 x 35g Salted Caramel";"0,00";
-"320023";"Scitec 100% Hydro Isolate 700g";"26,00";
-"320023-001";"Scitec 100% Hydro Isolate 700g Schoko";"8,00";
+"320023";"Scitec 100% Hydro Isolate 700g";"21,00";
+"320023-001";"Scitec 100% Hydro Isolate 700g Schoko";"3,00";
 "320023-002";"Scitec 100% Hydro Isolate 700g Vanille";"8,00";
 "320023-003";"Scitec 100% Hydro Isolate 700g Erdbeere";"10,00";
 "530039";"Body Attack 100% Pure Creatine 500g";"0,00";
