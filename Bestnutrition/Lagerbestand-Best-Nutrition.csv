@@ -66,7 +66,7 @@
 "012500";"Olimp Redweiler - 480g Pulver";"0,00";
 "012600";"Olimp Anabolic Amino 5500 Mega Caps - 400 Kapsel";"2,00";
 "012800";"Olimp Anabolic Amino 9000 Mega Caps - 300 Tabletten";"12,00";
-"012900";"Olimp Amino EAAnabol Xplode- 520g Pulver";"7,00";
+"012900";"Olimp Amino EAAnabol Xplode- 520g Pulver";"6,00";
 "012900-003";"Olimp Amino EAAnabol Xplode- 520g Pulver Ananas";"5,00";
 "012900-004";"Olimp Amino EAAnabol Xplode- 520g Pulver Orange";"0,00";
 "013000";"Olimp BCAA Mega Caps - 120 Kapsel";"7,00";
@@ -1119,11 +1119,11 @@
 "530100-0010";"Body Attack Carb Control - Proteinriegel 100g (15 Riegel) Stracciatella";"0,00";
 "540300";"EFX Kre-Alkalyn Nitro PRO - 120 Caps";"2,00";
 "531600";"Body Attack Extreme Whey Deluxe 900g";"77,00";
-"330300";"Biotech Iso Whey Zero 908g";"77,00";
+"330300";"Biotech Iso Whey Zero 908g";"75,00";
 "330300-0001";"Biotech Iso Whey Zero 908g Vanille";"0,00";
 "330300-0002";"Biotech Iso Whey Zero 908g Schokolade";"0,00";
 "330300-0003";"Biotech Iso Whey Zero 908g Erdbeere";"5,00";
-"330400";"Biotech Iso Whey Zero 2270g";"88,00";
+"330400";"Biotech Iso Whey Zero 2270g";"87,00";
 "330500";"Biotech Nitro pure Whey Gold 2,2kg";"0,00";
 "330500-0001";"Biotech Nitro pure Whey Gold 2,2kg Vanille";"0,00";
 "330500-0002";"Biotech Nitro pure Whey Gold 2,2kg Schokolade";"0,00";
@@ -1136,7 +1136,7 @@
 "330500-0009";"Biotech Nitro pure Whey Gold 2,2kg Melone";"0,00";
 "330400-0001";"Biotech Iso Whey Zero 2270g Vanille";"0,00";
 "330400-0002";"Biotech Iso Whey Zero 2270g Schokolade";"0,00";
-"330400-0003";"Biotech Iso Whey Zero 2270g Erdbeere";"6,00";
+"330400-0003";"Biotech Iso Whey Zero 2270g Erdbeere";"5,00";
 "330600";"Biotech Nitro pure Whey Gold 908g";"0,00";
 "330600-0001";"Biotech Nitro pure Whey Gold 908g Bourbon-Vanille";"0,00";
 "330600-0002";"Biotech Nitro pure Whey Gold 908g Schokolade";"0,00";
@@ -2147,7 +2147,7 @@
 "330400-0010";"Biotech Iso Whey Zero 2270g Apricot Yogurt";"0,00";
 "330400-0011";"Biotech Iso Whey Zero 2270g Lemon Cheesecake";"14,00";
 "330300-0009";"Biotech Iso Whey Zero 908g Apricot Yogurt";"0,00";
-"330300-0010";"Biotech Iso Whey Zero 908g Hazelnut";"5,00";
+"330300-0010";"Biotech Iso Whey Zero 908g Hazelnut";"3,00";
 "330300-002";"Biotech Iso Whey Zero 908g Lemon Cheesecake MHD 10.01.21";"0,00";
 "335600";"BioTech Q-10 Coenzyme 100mg 60 Kapsel";"7,00";
 "335700";"BioTech Multi Mineral Complex 100 Tabl.";"18,00";
@@ -4024,7 +4024,7 @@
 "1131400-003";"Blackline 2.0 MASS-DOMINATOR 3628g Delicious Brownie";"0,00";
 "730400";"Nocco BCAA Drink rot (24 x 330 ml)";"0,00";
 "730400-001";"Nocco BCAA Drink rot (24 x 330 ml) Orange";"0,00";
-"730500";"Nocco BCAA Drink 24 x 330 ml";"208,00";
+"730500";"Nocco BCAA Drink 24 x 330 ml";"207,00";
 "730500-001";"Nocco BCAA Drink blau (24 x 330 ml) Lemon Limette";"0,00";
 "730500-002";"Nocco BCAA Drink blau (24 x 330 ml) Rote Beeren";"24,00";
 "730500-003";"Nocco BCAA Drink blau (24 x 330 ml) Pfirsich";"24,00";
@@ -5476,7 +5476,7 @@
 "040204";"Peak Createston - 1,64kg Pineapple";"0,00";
 "730500-006";"Nocco BCAA Drink (24 x 330 ml) Citrus/Elderflower";"27,00";
 "730500-007";"Nocco BCAA Drink (24 x 330 ml) Caribbean";"15,00";
-"730500-008";"Nocco BCAA Drink blau (24 x 330 ml) Tropical";"18,00";
+"730500-008";"Nocco BCAA Drink blau (24 x 330 ml) Tropical";"17,00";
 "471300";"Optimum Nutrition Fish Oil 200 Caps - MHD 12/2018";"0,00";
 "1030600";"Snickers Protein Flapjack - 18x65g";"26,00";
 "1030700";"Snickers Hi-Protein Bars 18x62";"0,00";
@@ -5755,7 +5755,7 @@
 "220510-003";"BSN No-Xplode Legendary PreWorkout - 600g  Green Apple";"0,00";
 "220510-004";"BSN No-Xplode Legendary PreWorkout - 600g  Watermelon";"0,00";
 "055900-009";"Peak Whey Selection - 1kg Choco Coco";"0,00";
-"012900-002";"Olimp Amino EAAnabol Xplode- 520g Pulver Ice Tea Peach";"2,00";
+"012900-002";"Olimp Amino EAAnabol Xplode- 520g Pulver Ice Tea Peach";"1,00";
 "013300-13308";"Olimp BCAA Xplode Powder - 500g Ice Tea Peach";"9,00";
 "055800-007";"Peak Anabolic Protein Selection - 1kg Peanut Chocolate Chip";"9,00";
 "107-4300";"Core Labs - Protein MK 10 Serv.";"0,00";
@@ -7547,7 +7547,7 @@
 "010008";"Olimp Ashwagandha 600 Sport 60 Kapslen";"0,00";
 "1120007";"BPS-Pharma - Fatburner EU";"0,00";
 "330036";"BioTech Ashwagandha 60 Kapseln";"0,00";
-"172001";"Vitamin Well Drink 12x500ml";"20,00";
+"172001";"Vitamin Well Drink 12x500ml";"19,00";
 "172001-001";"Vitamin Well Drink 12x500ml Care";"0,00";
 "172001-002";"Vitamin Well Drink 12x500ml Defence";"0,00";
 "172001-003";"Vitamin Well Drink 12x500ml Reload";"0,00";
@@ -10234,7 +10234,7 @@
 "1030015";"M&M DAMAGED BOX Protein Bar 12x51g Peanut";"0,00";
 "730500-015";"Nocco BCAA Drink 24 x 330 ml Mango del Sol";"20,00";
 "127004-003";"Barebells Vegan Bar 12x 55g Chocolate Dough";"0,00";
-"172001-008";"Vitamin Well Drink 12x500ml Active (MHD:22.01.22)";"16,00";
+"172001-008";"Vitamin Well Drink 12x500ml Active (MHD:22.01.22)";"15,00";
 "620013";"Weider EINZELN Protein Shake 1x250ml";"0,00";
 "620013-001";"Weider EINZELN Protein Shake 1x250ml Vanille";"0,00";
 "330088";"BioTech MCT Oil 300g ";"10,00";
@@ -10419,7 +10419,7 @@
 "337400-031";"Biotech Iso Whey Zero 500g Beutel Ruby Schokolade";"0,00";
 "333910-007";"BioTech Vegan Protein 500g Neutral *NEU";"16,00";
 "330060-004";"BioTech Protein Dessert Bar 20 x 50g Ruby Raspberry";"0,00";
-"330098";"BioTech Arthro Forte 120 Tabl.";"1,00";
+"330098";"BioTech Arthro Forte 120 Tabl.";"0,00";
 "880012";"USN Select Protein Cookie 12x60g";"0,00";
 "880012-001";"USN Select Protein Cookie 12x60g Salted Caramel";"0,00";
 "880012-002";"USN Select Protein Cookie 12x60g Double Chocolate";"0,00";
@@ -10726,7 +10726,7 @@
 "320012-001";"Scitec Prime Bite Protein Bar 20 x 50g Fudge Brownie";"4,00";
 "320012-002";"Scitec Prime Bite Protein Bar 20 x 50g Cookies&Cream";"4,00";
 "320012-003";"Scitec Prime Bite Protein Bar 20 x 50g Kokosnuss Panna Cotta";"2,00";
-"165012";"Evolite Nutrition - Creatine Monohydrate unflavoured 500g";"327,00";
+"165012";"Evolite Nutrition - Creatine Monohydrate unflavoured 500g";"325,00";
 "530011-009";"Body Attack Extreme ISO WHEY 1,8kg Banana";"2,00";
 "320500-005";"Scitec Amino Charge 570g Blaue Himbeere";"6,00";
 "141009-012";"IronMaxx 100% Vegan Protein Zero 500g Creamy Chocolate";"0,00";
@@ -10802,7 +10802,7 @@
 "210010";"Big Zone N.O Synergy 90 Kapseln";"14,00";
 "210011";"Big Zone Masstiff 2000g";"15,00";
 "210012";"Big Zone Rest in Peace Zitrone 300g";"1,00";
-"210013";"Big Zone Peanut Butter 1000g";"19,00";
+"210013";"Big Zone Peanut Butter 1000g";"18,00";
 "210014";"Big Zone Zink Bisglycinat 150 Tabletten";"8,00";
 "141018-003";"Ironmaxx Cookie Bar 24x45g Chocolate Brownie";"0,00";
 "210015";"Big Zone Vitamin C 120 Kapseln";"0,00";
@@ -10915,7 +10915,7 @@
 "210003-004";"Big Zone Bulletproof EAA's 500g Kirsch";"0,00";
 "210011-001";"Big Zone Masstiff 2000g Cookies & Cream";"9,00";
 "210011-002";"Big Zone Masstiff 2000g Vanilla";"6,00";
-"210013-001";"Big Zone Peanut Butter 1000g Creamy";"1,00";
+"210013-001";"Big Zone Peanut Butter 1000g Creamy";"0,00";
 "210013-002";"Big Zone Peanut Butter 1000g Crunchy";"11,00";
 "210013-003";"Big Zone Peanut Butter 1000g Salty";"7,00";
 "1000030";"ProFuel Vitamin B12 - 1100 Tropfen (30ml)";"2,00";
@@ -11016,7 +11016,7 @@
 "183015";"Genius Nutrition Tribulus 90 Tabletten";"0,00";
 "183016";"Genius Nutrition LIPO-X5 60 Kapseln";"14,00";
 "330300-025";"Biotech Iso Whey Zero 908g Lemon Cheesecake";"9,00";
-"450004";"Activlab Ashwagandha 60 Kapseln";"6,00";
+"450004";"Activlab Ashwagandha 60 Kapseln";"5,00";
 "450005";"Activlab De Luxe Beetroot Shot 12 x 80ml";"2,00";
 "450006";"Activlab Beta Alanine 60 Kapseln";"4,00";
 "450007";"Activlab Creatine Monohydrate 300 Kapseln";"0,00";
