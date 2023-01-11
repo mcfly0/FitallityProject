@@ -363,7 +363,7 @@
 "051900-006";"Peak BCAA-TST - 500g Grapefruit";"0,00";
 "051900-007";"Peak BCAA-TST - 500g Mango-Melone";"2,00";
 "052100";"Peak Mega BCAA - 150 Tabs";"0,00";
-"052200";"Peak Glutamin - 500g ";"2,00";
+"052200";"Peak Glutamin - 500g ";"0,00";
 "052300";"Peak Glutamin Fusion - 200 caps";"0,00";
 "052400";"Peak Arginin - 120 caps";"10,00";
 "052500";"Peak Arginin Fusion - 240 caps";"0,00";
@@ -9258,7 +9258,7 @@
 "1750012-001";"Applied Nutrition Diet Whey 1kg Banana Milkshake";"15,00";
 "1750012-002";"Applied Nutrition Diet Whey 1kg Strawberry Milkshake";"0,00";
 "1750012-003";"Applied Nutrition Diet Whey 1kg Vanilla Milkshake";"0,00";
-"1750013";"Applied Nutrition Keto Collagen Peptides - 325g";"2,00";
+"1750013";"Applied Nutrition Keto Collagen Peptides - 325g";"1,00";
 "1750014";"Applied Nutrition AAKG - 120 veggie Caps";"23,00";
 "1750015";"Applied Nutrition Critical Greens - 150gr - natural";"0,00";
 "1750016";"Applied Nutrition Critical Cookie (12x85g)";"0,00";
@@ -9754,8 +9754,8 @@
 "321003";"Scitec 100% Peanut Butter 400g";"0,00";
 "321003-001";"Scitec 100% Peanut Butter 400g Crunchy";"0,00";
 "321003-002";"Scitec 100% Peanut Butter 400g Smooth";"0,00";
-"1950001";"WaNa Protein-Riegel 12x43g";"193,00";
-"1950001-001";"WaNa Protein-Riegel 12x43g Weisse Schokolade mit Pistazien-Creme-Füllung";"40,00";
+"1950001";"WaNa Protein-Riegel 12x43g";"192,00";
+"1950001-001";"WaNa Protein-Riegel 12x43g Weisse Schokolade mit Pistazien-Creme-Füllung";"39,00";
 "1950001-002";"WaNa Protein-Riegel 12x43g Dunkle Schokolade mit Kokonus-Füllung";"29,00";
 "1950001-003";"WaNa Protein-Riegel 12x43g Vollmilchschokolade mit Haselnuss-Schoko-Creme / Gianduia";"12,00";
 "1950001-004";"WaNa Protein-Riegel 12x43g Dunkle Schokolade mit dunkler Schokoladen-Creme-Füllung";"38,00";
@@ -10563,7 +10563,7 @@
 "620014-001";"Weider Classic Pack 24 x 35g Dark Chocolate";"0,00";
 "328900-004";"Scitec Jumbo Hardcore1530g Schokolade";"4,00";
 "340720-017";"Biotech 100% Pure Whey 454g Black Biscuit";"0,00";
-"020036";"GN Arginine HCL Nano Pure 500g";"2,00";
+"020036";"GN Arginine HCL Nano Pure 500g";"1,00";
 "MST125";"MST - Protein HydroWhey 900g Dose";"0,00";
 "MST125-001";"MST - Protein HydroWhey 900g Dose Raspberry Yoghurt";"0,00";
 "1750021-007";"Applied Nutrition Clear Whey 875g Cranberry Pomegranate";"18,00";
@@ -10645,7 +10645,7 @@
 "199023";"XXL Nutrition Armblaster";"4,00";
 "199024";"XXL Nutrition Dumbbell Set 20kg mit Koffer";"8,00";
 "165010-001";"Evolite Nutrition - Creatine 1000g Blueberry";"0,00";
-"199025";"XXL Nutrition Handtuch 95 x 50cm";"65,00";
+"199025";"XXL Nutrition Handtuch 95 x 50cm";"115,00";
 "199025-001";"XXL Nutrition Handtuch 95 x 50cm Not Here To Talk";"0,00";
 "199025-002";"XXL Nutrition Handtuch 95 x 50cm Poseidon";"16,00";
 "199025-003";"XXL Nutrition Handtuch 95 x 50cm Rosa";"7,00";
@@ -10810,8 +10810,8 @@
 "141021";"Ironmaxx Crunchy Bar 24x45g";"0,00";
 "141021-001";"Ironmaxx Crunchy Bar 24x45g Triple Chocolate";"0,00";
 "210017";"Big Zone Reds & Greens 600g Dose";"0,00";
-"210018";"Big Zone Kidney+ 180 Kapseln";"3,00";
-"210019";"Big Zone NovaSol® Curcumin 90 Liquid Kapseln";"11,00";
+"210018";"Big Zone Kidney+ 180 Kapseln";"2,00";
+"210019";"Big Zone NovaSol® Curcumin 90 Liquid Kapseln";"7,00";
 "210020";"Big Zone Nattokinase 270 Kapseln";"10,00";
 "210021";"Big Zone Magnesium Bisglycinat 120 Kapseln";"0,00";
 "210022";"Big Zone Joint Protect 180 Kapseln";"0,00";
@@ -11070,7 +11070,7 @@
 "1750032-004";"Applied Nutrition Critical Whey 900g Chocolate";"16,00";
 "1750033";"Applied Nutrition L-Arginine  - 120 veggie Caps";"3,00";
 "1750034";"Applied Nutrition Critical Greens - 250gr - natural";"17,00";
-"210029";"Big Zone Citrullin Malat 500g";"13,00";
+"210029";"Big Zone Citrullin Malat 500g";"12,00";
 "152129";"MST - VITAMIN KICK 60 Tabl.";"0,00";
 "MST129";"MST - VITAMIN KICK 60 Tabl.";"12,00";
 "MST041-003";"MST - Collagen Pulver + Vitamin C - 390g Orange";"27,00";
@@ -11080,7 +11080,7 @@
 "MST131";"MST - Beauty Collagen 225g";"27,00";
 "MST131-001";"MST - Beauty Collagen 225g Pineapple";"14,00";
 "MST131-002";"MST - Beauty Collagen 225g Mango-Kiwi";"13,00";
-"113300";"Blackline 2.0 Honest Whey+ 1000g";"275,00";
+"113300";"Blackline 2.0 Honest Whey+ 1000g";"273,00";
 "113300-017";"Blackline 2.0 Honest Whey+ 1000g Apfelstrudel";"21,00";
 "113300-022";"Blackline 2.0 Honest Whey+ 1000g Bienenstich";"0,00";
 "113300-003";"Blackline 2.0 Honest Whey+ 1000g Butterkeeeks";"0,00";
@@ -11100,7 +11100,7 @@
 "113300-027";"Blackline 2.0 Honest Whey+ 1000g Spekulatius";"0,00";
 "113300-021";"Blackline 2.0 Honest Whey+ 1000g Triple Chocolate";"0,00";
 "113300-002";"Blackline 2.0 Honest Whey+ 1000g Unicorn Cake Limited";"12,00";
-"113300-020";"Blackline 2.0 Honest Whey+ 1000g White Chocolate Cocos";"21,00";
+"113300-020";"Blackline 2.0 Honest Whey+ 1000g White Chocolate Cocos";"20,00";
 "113300-033";"Blackline 2.0 Honest Whey+ 1000g Blaubeere Muffin";"0,00";
 "113300-036";"Blackline 2.0 Honest Whey+ 1000g Franzbrötchen";"5,00";
 "113300-038";"Blackline 2.0 Honest Whey+ 1000g Heiße Milch mit Honig";"0,00";
@@ -11112,7 +11112,7 @@
 "113016";"Sinob Vitamin B12 Tropfen 10ml";"12,00";
 "113017";"Sinob Vitamin D3 + K2 Tropfen 10ml";"15,00";
 "113018";"Sinob Omega 3 180 Softgels";"12,00";
-"113300-050";"Blackline 2.0 Honest Whey+ Vanilla Ice Cream 820g *NEU";"38,00";
+"113300-050";"Blackline 2.0 Honest Whey+ Vanilla Ice Cream 820g *NEU";"37,00";
 "113019";"Sinob Core CykloDex 1kg (Cluster Dextrin)";"44,00";
 "1000031";"ProFuel Melatonin GUMMIBÄRCHEN 60 ";"9,00";
 "950117";"FA Nutrition Napalm MRP 20x100g Single Serving Packets";"49,00";
@@ -11230,7 +11230,7 @@
 "9000004-001";"DY Nutrition M6Teen Prewokrout Shots 12x60ml Cherry";"1,00";
 "9000004-002";"DY Nutrition M6Teen Prewokrout Shots 12x60ml Mojito";"1,00";
 "9000004-003";"DY Nutrition M6Teen Prewokrout Shots 12x60ml Peach";"2,00";
-"210030";"Big Zone C.S.A. 60 Kapseln";"3,00";
+"210030";"Big Zone C.S.A. 60 Kapseln";"2,00";
 "350010";"Dedicated Unstoppable Pre-Workout 300g";"50,00";
 "350011";"Dedicated EPIC Muscle Building Formula 425g";"13,00";
 "350011-001";"Dedicated EPIC Muscle Building Formula 425g Watermelon";"4,00";
@@ -11360,7 +11360,7 @@
 "210032";"Big Zone Wake The F*ck Up (Riechsalz) 75g";"0,00";
 "210033";"Big Zone Protein Juice 1000g";"26,00";
 "250001-006";"USP Labs Jack3d Advanced 45 Serv. mango";"0,00";
-"210034";"Big Zone Battle Vhey Vegan 1000g";"12,00";
+"210034";"Big Zone Battle Vhey Vegan 1000g";"10,00";
 "210035";"Big Zone Creatin 500g";"34,00";
 "210036";"Big Zone Shield 270g";"8,00";
 "950151";"Skull Labs Whey Isolate 2000g";"15,00";
@@ -11527,8 +11527,8 @@
 "215001-013";"Sven Jack (Energycake) 12 x 125g Schoko-Mandel";"38,00";
 "215001-014";"Sven Jack (Energycake) 12 x 125g Erdbeere";"45,00";
 "215001-015";"Sven Jack (Energycake) 12 x 125g Heidelbeere";"21,00";
-"210034-002";"Big Zone Battle Vhey Vegan 1000g Schoko Haselnuss";"6,00";
-"210034-003";"Big Zone Battle Vhey Vegan 1000g Zimtstern";"6,00";
+"210034-002";"Big Zone Battle Vhey Vegan 1000g Schoko Haselnuss";"5,00";
+"210034-003";"Big Zone Battle Vhey Vegan 1000g Zimtstern";"5,00";
 "210031-002";"Big Zone Battle Isolate 1000g Vanille";"3,00";
 "210001-015";"Big Zone Battle Whey 1000g Eierlikör";"7,00";
 "051900-015";"Peak BCAA-TST - 500g Strawberry Kiwi";"8,00";
@@ -11553,3 +11553,4 @@
 "320026-004";"Scitec Shaker 700ml Rauchfarbig";"119,00";
 "320026-005";"Scitec Shaker 700ml Mad Red";"2,00";
 "320026-006";"Scitec Shaker 700ml Jumbo Neon Orange";"1,00";
+"199025-007";"XXL Nutrition Handtuch 95 x 50cm Schwarz";"50,00";
