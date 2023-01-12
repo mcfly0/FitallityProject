@@ -664,11 +664,11 @@
 "360101";"Cellucor C4 30Serv. 195g  Watermelon";"29,00";
 "360102";"Cellucor C4 30Serv. 195g  Green Apple";"33,00";
 "360103";"Cellucor C4 30Serv. 195g  Strawberry Margarita";"7,00";
-"320200";"Scitec 100% Whey Professional 2350g";"194,00";
+"320200";"Scitec 100% Whey Professional 2350g";"192,00";
 "018000";"Olimp Riegel Matrix Pro 32 - 24x80g";"0,00";
 "320300";"Scitec Chromium Picolinate 100 Tabletten";"12,00";
-"320200-001";"Scitec 100% Whey Professional 2350g Strawberry White Chocolate";"11,00";
-"320200-002";"Scitec 100% Whey Professional 2350g Vanilla Verry Berry";"20,00";
+"320200-001";"Scitec 100% Whey Professional 2350g Strawberry White Chocolate";"10,00";
+"320200-002";"Scitec 100% Whey Professional 2350g Vanilla Verry Berry";"19,00";
 "320200-003";"Scitec 100% Whey Professional 2350g Vanilla-Light";"0,00";
 "320200-004";"Scitec 100% Whey Professional 2350g Banana";"15,00";
 "320200-005";"Scitec 100% Whey Professional 2350g Coconut Chocolate";"14,00";
@@ -678,7 +678,7 @@
 "320200-010";"Scitec 100% Whey Professional 2350g Caramel";"0,00";
 "320200-011";"Scitec 100% Whey Professional 2350g Chocolate Hazelnut";"18,00";
 "320200-013";"Scitec 100% Whey Professional 2350g Chocolate-Peanut Butter";"0,00";
-"320200-007";"Scitec 100% Whey Professional 2350g Chocolate";"0,00";
+"320200-007";"Scitec 100% Whey Professional 2350g Chocolate";"-2,00";
 "320200-015";"Scitec 100% Whey Professional 2350g Vanilla";"19,00";
 "180300";"Universal Animal Pump 30 packs";"0,00";
 "370100";"Energy Cake (24x125g)";"0,00";
@@ -706,7 +706,7 @@
 "060800";"Strimex Creabon 100% micronezed Creatine - 500g";"0,00";
 "023100";"GN Citrulline Polyhydrate 200g";"0,00";
 "320400-0006";"Scitec Fourstar Protein - 500g Raspberry Vanilla Yogurt";"0,00";
-"320600";"Scitec 100% Whey Professional 920g";"146,00";
+"320600";"Scitec 100% Whey Professional 920g";"140,00";
 "320700";"Scitec Beef Aminos 200 Tabletten";"0,00";
 "320900";"Scitec Amino 5600 - 200 Tabletten";"3,00";
 "321000";"Scitec Amino 5600 - 500 Tabletten";"15,00";
@@ -728,7 +728,7 @@
 "322000-0001";"Scitec Jumbo 4400g Schokolade";"0,00";
 "322000-0002";"Scitec Jumbo 4400g Erdbeere";"0,00";
 "322000-0003";"Scitec Jumbo 4400g Vanille";"0,00";
-"320600-024";"Scitec 100% Whey Professional 920g Strawberry White Chocolate";"16,00";
+"320600-024";"Scitec 100% Whey Professional 920g Strawberry White Chocolate";"15,00";
 "320600-0002";"Scitec 100% Whey Professional 920g Vanilla Verry Berry";"10,00";
 "320600-005";"Scitec 100% Whey Professional 920g Vanilla-Light";"0,00";
 "320600-006";"Scitec 100% Whey Professional 920g Banana";"12,00";
@@ -740,8 +740,8 @@
 "320600-013";"Scitec 100% Whey Professional 920g Caramel";"0,00";
 "320600-014";"Scitec 100% Whey Professional 920g Chocolate Hazelnut";"9,00";
 "320600-015";"Scitec 100% Whey Professional 920g Chocolate-Peanut Butter";"0,00";
-"320600-011";"Scitec 100% Whey Professional 920g Chocolate";"1,00";
-"320600-017";"Scitec 100% Whey Professional 920g Vanilla";"16,00";
+"320600-011";"Scitec 100% Whey Professional 920g Chocolate";"-2,00";
+"320600-017";"Scitec 100% Whey Professional 920g Vanilla";"15,00";
 "322100";"Scitec L-Glutamin 300g";"13,00";
 "322200";"Scitec L-Glutamin 600g";"0,00";
 "322300";"Scitec Tryptophan 60 Kapsel";"9,00";
@@ -761,9 +761,9 @@
 "322700";"Scitec Zinc 100 Tabletten";"46,00";
 "320400-0007";"Scitec Fourstar Protein - 500g Orange Maracuja";"0,00";
 "320400-0008";"Scitec Fourstar Protein - 500g Tropical";"0,00";
-"320600-016";"Scitec 100% Whey Professional 920g Strawberry";"5,00";
+"320600-016";"Scitec 100% Whey Professional 920g Strawberry";"3,00";
 "320200-014";"Scitec 100% Whey Professional 2350g Strawberry";"20,00";
-"320600-018";"Scitec 100% Whey Professional 920g Chocolate Coockies Cream";"16,00";
+"320600-018";"Scitec 100% Whey Professional 920g Chocolate Coockies Cream";"15,00";
 "220400";"BSN No-Xplode 3.0 1000g";"0,00";
 "220400-0001";"BSN No-Xplode 3.0 1000g  Blue Raspberry";"0,00";
 "220400-0002";"BSN No-Xplode 3.0 1000g  Fruit Punch";"0,00";
@@ -1351,7 +1351,7 @@
 "332900-0002";"BioTech NitroX Therapy 680g Cranberry";"1,00";
 "332900-0003";"BioTech NitroX Therapy 680g Blue-Grape";"2,00";
 "332900-0004";"BioTech NitroX Therapy 680g Tropical Fruit";"0,00";
-"333000";"BioTech B-Complex - 60 Tabl.";"15,00";
+"333000";"BioTech B-Complex - 60 Tabl.";"12,00";
 "333100";"BioTech Calcium Zinc Magnesium - 100 Tabl.";"0,00";
 "530200";"Body Attack Protein Pancake 300g";"13,00";
 "530200-0001";"Body Attack Protein Pancake 300g  Buttermilk Flavour";"0,00";
@@ -2677,7 +2677,7 @@
 "328000-002";"Scitec TGH 240g Cherry-Vanilla";"0,00";
 "1000000";"ProFuel TUNNELBLICK 360g";"12,00";
 "1000100";"ProFuel ALPHAMINOS BCAA 300g";"14,00";
-"1000200";"ProFuel Flüssigkreide - LIQUID CHALK 200ml";"154,00";
+"1000200";"ProFuel Flüssigkreide - LIQUID CHALK 200ml";"152,00";
 "1000000-001";"ProFuel TUNNELBLICK 360g Green Apple";"0,00";
 "1000000-002";"ProFuel TUNNELBLICK 360g Wassermelone";"0,00";
 "1000100-001";"ProFuel ALPHAMINOS BCAA 300g IceTea Peach";"0,00";
@@ -3693,7 +3693,7 @@
 "1150000";"BPS-Pharma - #PUSSYCAPZ Fatburner - 60 Kapsel";"0,00";
 "1100200-002";"Blackline Supplements ""SUIZIDE"" Zero Booster - 200g Murderous Mango";"0,00";
 "350700-005";"Dedicated BCAA Sensation  V.2 30 Serv.  Sour Bombs";"0,00";
-"352300";"Dedicated Waterjug Flasche 2,2 Liter";"209,00";
+"352300";"Dedicated Waterjug Flasche 2,2 Liter";"205,00";
 "026400";"GN LIPOMID Burner - 60 caps";"0,00";
 "450110";"Activlab BCAA Xtra drink + Caffeine (24*250ml)";"0,00";
 "450110-001";"Activlab BCAA Xtra drink + Caffeine (24*250ml) Apple";"0,00";
@@ -5588,9 +5588,9 @@
 "141290-003";"IronMaxx Water Gallon 2,2L Grau";"0,00";
 "141290-004";"IronMaxx Water Gallon 2,2L Grün";"32,00";
 "141290-005";"IronMaxx Water Gallon 2,2L Pink";"0,00";
-"141310";"IronMaxx Water Gallon 2,2L Matt";"258,00";
+"141310";"IronMaxx Water Gallon 2,2L Matt";"253,00";
 "141310-01";"IronMaxx Water Gallon 2,2L Matt Grau";"62,00";
-"141310-02";"IronMaxx Water Gallon 2,2L Matt Schwarz";"62,00";
+"141310-02";"IronMaxx Water Gallon 2,2L Matt Schwarz";"57,00";
 "141310-03";"IronMaxx Water Gallon 2,2L Matt Blau";"67,00";
 "3213900-002";"Scitec Jumbo Prof. 3240g Banane";"0,00";
 "3213900-003";"Scitec Jumbo Prof. 3240g Himbeere";"0,00";
@@ -10315,7 +10315,7 @@
 "183002-005";"Genius Nutrition Fury Extreme 400g Ice Candy";"2,00";
 "950088-001";"Skull Labs Brain Reaper Shot 24x120 ml Grapefruit-Cherry";"0,00";
 "950088-002";"Skull Labs Brain Reaper Shot 24x120 ml Orange-Citrus";"0,00";
-"950089";"Nuclear Nutrition IGNITER Booster 425g";"2,00";
+"950089";"Nuclear Nutrition IGNITER Booster 425g";"1,00";
 "950089-001";"Nuclear Nutrition IGNITER Booster 425g Lychee";"0,00";
 "183009";"Genius Nutrition Warcry PWO Drink rot (24 x 330 ml)";"0,00";
 "183009-001";"Genius Nutrition PWO Drink rot (24 x 330 ml) Cherry Cinnamon";"0,00";
@@ -10976,7 +10976,7 @@
 "113014";"Blackline 2.0 Water Jug 2,2l schwarz";"0,00";
 "010033";"Olimp Carni Tea Xplode Zero Cherry (24x330ml)";"61,00";
 "950089-002";"Nuclear Nutrition IGNITER Booster 425g Fruit Massage";"1,00";
-"950089-003";"Nuclear Nutrition IGNITER Booster 425g Orange Mango";"1,00";
+"950089-003";"Nuclear Nutrition IGNITER Booster 425g Orange Mango";"0,00";
 "950108-004";"Kevin Levrone Scatterbrain 270g Dragon Fruit";"0,00";
 "950022-005";"Kevin Levrone GOLD EAAmino 390g Dragon Fruit";"56,00";
 "952700-008";"FA Nutrition CORE Mass 3kg Cookies & Cream";"0,00";
@@ -11028,7 +11028,7 @@
 "450013";"Activlab NAC 500mg 90 Kapseln";"0,00";
 "450014";"Activlab Protein Breakfast 300g";"32,00";
 "450015";"Activlab Creatine Tabs 300 Tabletten";"15,00";
-"450016";"Activlab Creatine Capsules 300 Kapseln";"26,00";
+"450016";"Activlab Creatine Capsules 300 Kapseln";"25,00";
 "450014-001";"Activlab Protein Breakfast 300g Strawberry Haferflocken";"14,00";
 "450014-002";"Activlab Protein Breakfast 300g Banana Reis- & Haferflocken";"18,00";
 "450014-003";"Activlab Protein Breakfast 300g Strawberry Reis- & Haferflocken";"0,00";
@@ -11555,11 +11555,11 @@
 "320026-006";"Scitec Shaker 700ml Jumbo Neon Orange";"0,00";
 "199025-007";"XXL Nutrition Handtuch 95 x 50cm Schwarz";"0,00";
 "148000-017";"Monster Energy Zero - (12x500ml) Lewis Hamilton";"17,00";
-"217001";"Murdered Out Insidious Preworkout 463g";"47,00";
+"217001";"Murdered Out Insidious Preworkout 463g";"43,00";
 "217002";"Murdered Out Insidious Shaker 500ml";"57,00";
 "217001-001";"Murdered Out Insidious Preworkout 463g Killer Lollipop";"17,00";
-"217001-002";"Murdered Out Insidious Preworkout 463g Sour Scummy Bear";"15,00";
-"217001-003";"Murdered Out Insidious Preworkout 463g Zomberry";"15,00";
+"217001-002";"Murdered Out Insidious Preworkout 463g Sour Scummy Bear";"13,00";
+"217001-003";"Murdered Out Insidious Preworkout 463g Zomberry";"13,00";
 "1950001-010";"WaNa Protein-Riegel 12x43g Vollmilchschokolade mit Haselnuss-Schoko-Creme / Gianduia (MHD:03/23)";"11,00";
 "1950001-011";"WaNa Protein-Riegel 12x43g Dunkle Schokolade mit dunkler Schokoladen-Creme-Füllung (MHD:04/23)";"36,00";
 "1950001-012";"WaNa Protein-Riegel 12x43g Schoko-Haselnuss mit Salty-Caramel-Füllung (MHD:03/23)";"17,00";
